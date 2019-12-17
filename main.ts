@@ -10,7 +10,7 @@ namespace LumexLDM6432 {
         //% block="5*7"
         smallSize = 0x81,
         //% block="8*16"
-        bigSize = 0x83
+        bigSize = 0x86
     }
     export enum showNow {
         //% block="now"
